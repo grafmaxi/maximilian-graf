@@ -1,9 +1,13 @@
 name: Deploy Hugo site to GitHub Pages
 
+permissions:
+  contents: write
+  pages: write
+
 on:
   push:
     branches:
-      - main  # ← Passe das an, falls dein Branch z. B. "master" heißt
+      - main 
 
 jobs:
   deploy:
