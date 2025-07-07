@@ -18,3 +18,5 @@ theme = "PaperMod"
 [[params.profileMode.buttons]]
 name = "About Me"
 url = "about/"
+name = "Contact"
+url = "contact/"
