@@ -1,6 +1,6 @@
 baseURL = 'https://grafmaxi.github.io/maximilian-graf/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Maximilian Graf'
 theme = "PaperMod"
 
 [params]
