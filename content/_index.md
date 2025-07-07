@@ -1,7 +1,7 @@
 +++
 date = '2025-07-07T14:13:00+02:00'
 draft = false
-title = 'About Me'
+title = 'Maximilian Graf'
 +++
 
 Since 2022, I have been a PhD student at the University of Potsdam, supervised by Alexandra Carpentier (University of Potsdam) and Nicolas Verzelen (INRAE Montpellier).
