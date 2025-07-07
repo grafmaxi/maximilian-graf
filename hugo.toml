@@ -1,4 +1,4 @@
-baseURL = 'https://grafmaxi.github.io/maximilian-graf/'
+baseURL = 'https://grafmaxi.github.io/'
 languageCode = 'en-us'
 title = 'Maximilian Graf'
 theme = "PaperMod"
