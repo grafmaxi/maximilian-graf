@@ -5,3 +5,16 @@ theme = "PaperMod"
 
 [params]
   defaultTheme = "auto"
+
+  [params.profileMode]
+    enabled = true
+    subtitle = "Universität Potsdam"
+    imageUrl = "images/profile.png"
+    imageTitle = "Portrait of Max"
+    imageWidth = 160
+    imageHeight = 160
+
+
+[[params.profileMode.buttons]]
+name = "About Me"
+url = "about/"
