@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Contact"
 ---
 
 You can reach me via email:  
