@@ -9,7 +9,7 @@ theme = "PaperMod"
   [params.profileMode]
     enabled = true
     subtitle = "Universität Potsdam"
-    imageUrl = "{{ \"images/profile.png\" | relURL }}"
+    imageUrl = "images/profile.png
     imageTitle = "Portrait of Max"
     imageWidth = 160
     imageHeight = 160
