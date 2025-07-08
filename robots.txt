@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://grafmaxi.github.io/maximilian-graf/sitemap.xml
