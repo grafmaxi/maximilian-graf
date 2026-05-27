@@ -11,6 +11,11 @@ _Bernoulli_
 {{< button "/maximilian-graf/files/slides_ranking.pdf" "Slides" >}}
 {{< button "/maximilian-graf/files/poster_ranking.pdf" "Poster" >}}
 
+**The Sample Complexity of Multiple Change Point Identification under Bandit Feedback**  
+_Maximilian Graf, Victor Thuot_  
+on _arXiv_
+{{< button "https://arxiv.org/abs/2605.13252" "Preprint" >}}
+
 ---
 
 ## 2025
